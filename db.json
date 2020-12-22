@@ -28,5 +28,12 @@
             "price": 10,
             "professor": "Álvaro"
         }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "username": "Andrés",
+            "loggued": true
+        }
     ]
 }
