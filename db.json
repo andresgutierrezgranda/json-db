@@ -33,7 +33,13 @@
         {
             "id": 1,
             "username": "Andrés",
-            "loggued": true
+            "loggued": 1
+        },
+        {
+            "id": 2,
+            "username": "Pepe",
+            "loggued": 0
         }
+
     ]
 }
